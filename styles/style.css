@@ -46,6 +46,15 @@ h2, h3{
 footer{
     color: rgba(255,255,255,0.9); 
     padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0.5;
+}
+ 
+.signature a{
+    color: #fff;
+    text-decoration: none;
+
 }
 
 /* MEDIA QUERIES */
