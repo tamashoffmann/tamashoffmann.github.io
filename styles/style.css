@@ -109,7 +109,7 @@ footer{
    /* From 1024px and up */
    @media (min-width: 1024px) { 
     body{
-        padding: 20px 200px 0 200px;
+        padding: 40px 200px 0 200px;
     }
     .our-process {
         display: flex;
